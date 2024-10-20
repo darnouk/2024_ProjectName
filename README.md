@@ -2,8 +2,8 @@
 
 ### Team Members
 Daniel Arnouk
-TM 2
-TM 3
+    TM 2
+    TM 3
 
 ### Final Proposal
 1. Persona/Scenario
